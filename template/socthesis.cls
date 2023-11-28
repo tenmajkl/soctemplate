@@ -54,12 +54,12 @@
     {1}{\def\@field{1. Matematika a~statistika}}
     {2}{\def\@field{2. Fyzika}}
     {3}{\def\@field{3. Chemie}}
-    {4}{\def\@field{4. Biologie}}
-    {5}{\def\@field{5. Geologie, geografie}}
+    {4}{\def\@field{4. Biologie, geografie a~geologie}}
+    {5}{\def\@field{5. Molekulární biologie}}
     {6}{\def\@field{6. Zdravotnictví}}
     {7}{\def\@field{7. Zemědělství, potravinářství, lesní a~vodní hospodářství}}
     {8}{\def\@field{8. Ochrana a~tvorba životního prostředí}}
-    {9}{\def\@field{9. Strojírenství, hutnictví, doprava a~průmyslový design}}
+    {9}{\def\@field{9. Strojírenství, hutnictví a~doprava}}
     {10}{\def\@field{10. Elektrotechnika, elektronika a~telekomunikace}}
     {11}{\def\@field{11. Stavebnictví, architektura a~design interiérů}}
     {12}{\def\@field{12. Tvorba učebních pomůcek, didaktická technologie}}
